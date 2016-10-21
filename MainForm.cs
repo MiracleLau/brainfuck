@@ -33,14 +33,27 @@ namespace fuckbrain
 		{
 			fuckBrain fb = new fuckBrain();
 			string text = textBox1.Text;
+            if (text == "")
+            {
+                MessageBox.Show("你至少要输入点什么吧?");
+            }
 			textBox2.Text = fb.text2FuckBrain(text);
 		}
 		void Button2Click(object sender, EventArgs e)
 		{
 			fuckBrain fb = new fuckBrain();
 			string text = textBox1.Text;
+            if(text=="")
+            {
+                MessageBox.Show("你至少要输入点什么吧?");
+            }
 			textBox2.Text = fb.FuckBrain2Text(text);
 			
 		}
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
 	}
 }
