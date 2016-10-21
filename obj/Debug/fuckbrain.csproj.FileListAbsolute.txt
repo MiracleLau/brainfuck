@@ -1,0 +1,8 @@
+F:\program\vsworkspeace\fuckbrain\obj\Debug\fuckbrain.csprojResolveAssemblyReference.cache
+F:\program\vsworkspeace\fuckbrain\obj\Debug\fuckbrain.MainForm.resources
+F:\program\vsworkspeace\fuckbrain\obj\Debug\fuckbrain.csproj.GenerateResource.Cache
+F:\program\vsworkspeace\fuckbrain\bin\Debug\fuckbrain.exe.config
+F:\program\vsworkspeace\fuckbrain\bin\Debug\fuckbrain.exe
+F:\program\vsworkspeace\fuckbrain\bin\Debug\fuckbrain.pdb
+F:\program\vsworkspeace\fuckbrain\obj\Debug\fuckbrain.exe
+F:\program\vsworkspeace\fuckbrain\obj\Debug\fuckbrain.pdb

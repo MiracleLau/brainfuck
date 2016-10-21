@@ -1,0 +1,5 @@
+F:\program\vsworkspeace\fuckbrain\bin\Release\fuckbrain.exe.config
+F:\program\vsworkspeace\fuckbrain\bin\Release\fuckbrain.exe
+F:\program\vsworkspeace\fuckbrain\obj\Release\fuckbrain.MainForm.resources
+F:\program\vsworkspeace\fuckbrain\obj\Release\fuckbrain.csproj.GenerateResource.Cache
+F:\program\vsworkspeace\fuckbrain\obj\Release\fuckbrain.exe
